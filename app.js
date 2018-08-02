@@ -1,9 +1,9 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyDE9HvPV_Bvng_tp3Y5aGSu4yRy767ZlNc",
-  authDomain: "traintime-363eb.firebaseapp.com",
-  databaseURL: "https://traintime-363eb.firebaseio.com",
-  storageBucket: "traintime-363eb.appspot.com",
+  apiKey: "AIzaSyAFEA9AmJTWRw9pgboexDeZfHMiIk3xvP0",
+  authDomain: "rpschallenges.firebaseapp.com",
+  databaseURL: "https://rpschallenges.firebaseio.com",
+  storageBucket: "rpschallenges.appspot.com",
 };
 
 firebase.initializeApp(config);
