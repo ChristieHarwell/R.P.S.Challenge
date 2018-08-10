@@ -1,11 +1,15 @@
 body {
   /* Visual */
-  background-color: #e4f0d0;
+  /* background-color: #e4f0d0; */
+  background-image: url("../img/rpsGameHands.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
 }
 
 header {
   /* Visual */
-  background-color: #c2d8b9;
+  /* background-color: #c2d8b9; */
 }
 
 h1 {
@@ -33,6 +37,7 @@ input {
 
   /* Positioning */
   margin: 0 auto;
+
 }
 
 /***********************************
